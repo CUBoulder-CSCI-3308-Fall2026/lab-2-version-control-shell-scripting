@@ -11,5 +11,5 @@ int main(){
     //call each of the above functions
     //conflict resolve to return 2
 
-    return 0;
+    return 1;
 }
