@@ -2,3 +2,4 @@
 Bhargav Shandilya - bhargavns
 Karthik Chandrasekhar - kvckarthik
 Kelechi Ezema - kehcss
+Nishchal Shetty - Nishchal-Shetty
