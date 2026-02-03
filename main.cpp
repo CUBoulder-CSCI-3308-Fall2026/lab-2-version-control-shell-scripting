@@ -11,9 +11,5 @@ int main(){
     //call each of the above functions
     //conflict resolve to return 2
 
-<<<<<<< HEAD
-    return 2;
-=======
-    return 2;
->>>>>>> main
+    return 1;
 }
